@@ -14,11 +14,11 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, or anything related to backend development.
 - ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at [mohamedramadan2003.netlify.app](https://mohamedramadan2003.netlify.app/) to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [mohamedramadan2003.netlify.app](https://github.com/mohamedramadan2003) to see some of the projects I've worked on.
 
 ### Connect with Me:
 
-<a href="https://t.me/mohamedramadan2003" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://github.com/mohamedramadan2003" target="_blank"><img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
