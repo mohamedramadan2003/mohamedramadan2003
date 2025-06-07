@@ -1,49 +1,54 @@
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding Animation" />
+<p align="center">
+  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding Animation" />
+</p>
 
-<h1 align="center">
-  Hi, I'm Mohamed Ramadan 👋
-</h1>
+<h3 align="center">
+  Welcome to Mohamed Ramadan's Profile!<br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Hi">
+</h3>
+
+<!-- Typing SVG with responsive design -->
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Laravel%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
+  </a>
+</div>
+
+---
+
+### 👋 About Me
+
+- 🏢 Software Engineer and Technical Community Manager at Almadrsa  
+- 👨‍💻 CS student passionate about backend development  
+- 💬 Ask me about PHP, Laravel, or backend development  
+- ⚡ Fun Fact: Coffee enthusiast - perfect day starts and ends with coffee  
+- 🌐 Portfolio: [mohamedramadan2003.netlify.app](https://github.com/mohamedramadan2003)
+
+---
+
+### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&width=435&lines=Backend+Laravel+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <a href="https://github.com/mohamedramadan2003" target="_blank">
+    <img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 I'm a Computer Science student with passion for backend development
-- 🧠 I work mainly with PHP & Laravel
-- 👨‍🏫 Technical Community Manager at Almadrsa
-- ☕ Coffee fuels my code!
-- 🌐 Portfolio: [mohamedramadan2003.netlify.app](https://mohamedramadan2003.netlify.app)
-
----
-
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedramadan2003&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedramadan2003&theme=radical&hide_border=false" width="48%" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
