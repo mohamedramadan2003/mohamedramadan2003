@@ -29,9 +29,10 @@
 ### 📱 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/mohamedramadan2003" target="_blank">
-    <img src="https://img.shields.io/badge/-Mohamed%20Ramadan-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
-  </a>
+  <a href="https://wa.me/201064234874" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
 </p>
 
 ---
