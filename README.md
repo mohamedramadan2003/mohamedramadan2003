@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/7pW2fI7.gif" width="300" alt="Laravel Backend Dev" />
+  <img src="https://i.imgur.com/7pW2fI7.gif" width="300" alt="Laravel Backend Developer" />
 </p>
-
 
 
 <h3 align="center">
