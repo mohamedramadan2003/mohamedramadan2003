@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Laravel Backend Developer" />
 </p>
+
 
 <h3 align="center">
   Welcome to Mohamed Ramadan's Profile!<br>
