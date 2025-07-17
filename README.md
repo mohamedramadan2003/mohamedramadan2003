@@ -12,7 +12,6 @@
 </div>
 
 ---
-
 ### 👨‍💻 About Me
 
 - 🎓 CS student & Backend Laravel Developer  
