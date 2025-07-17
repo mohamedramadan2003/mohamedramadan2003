@@ -10,7 +10,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Laravel%20Developer;Always%20learning%20new%20things&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22" alt="Typing SVG">
   </a>
 </div>
-
 ---
 ### 👨‍💻 About Me
 
