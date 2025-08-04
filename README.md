@@ -23,7 +23,6 @@
 - 🎓 Computer Science Student  
 - 🧠 Passionate about **clean architecture**, **RESTful APIs**, and **Laravel ecosystems**  
 - 💬 Ask me about **PHP, Laravel, APIs, MySQL**  
-- ☕ Fun Fact: I write better code after coffee  
 - 🌐 Portfolio: [mohamedramadan2003.netlify.app](https://mohamedramadan2003.netlify.app)
 
 ---
